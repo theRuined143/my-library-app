@@ -1,0 +1,32 @@
+body{
+  background-image: url("/background.jpg");
+  color: white;
+}
+
+.cont{opacity: 70%;}
+
+.jumbotron{
+  background-color: #686868;
+  opacity: 100%;
+}
+
+.butn{
+  color: white;
+  margin-left: none;
+  padding: 0;
+}
+
+h1{
+  position: relative;
+  /* top: 50%; */
+  margin-top: 35px;
+  /* left: 50%; */
+  margin-left: -20px;
+}
+
+li{
+  font-size: 26px;
+  border: 3px;
+  border-color: red;
+  border-radius: 3px;
+}
